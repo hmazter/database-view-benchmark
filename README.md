@@ -4,6 +4,8 @@ Benchmark Database views for Laravel Eloquent
 This repository is used to benchmark how Laravel Eloquent handles
 a database view for a model compared to a normal table.
 
+Read the blog post here: https://www.hmazter.com/2018/09/using-database-views-as-tables-for-laravel-eloquent/
+
 ## Installation
 1. git clone
 1. composer install
